@@ -1,4 +1,4 @@
-# Simple_Youtuber_filter
+# Simple_Youtube
 
 # How to use it?
  Type in some keywords into the search bar and it will fetch some videos from
